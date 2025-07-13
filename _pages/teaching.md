@@ -1,8 +1,11 @@
 ---
-layout: archive
+layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: false
+sidebar:
+  nav: false
+classes: wide
 ---
 
 <style>
