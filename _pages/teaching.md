@@ -5,9 +5,30 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Graduate Student Instructor, University of Michigan
+<style>
+.toggle-button {
+  float: right;
+  padding: 6px 12px;
+  font-size: 14px;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  margin-bottom: 1em;
+}
 
-<button onclick="toggleAll()" style="margin-bottom: 1em;">Show All</button>
+.toggle-button:hover {
+  background-color: #0056b3;
+}
+</style>
+
+<div style="overflow: auto;">
+  <button onclick="toggleAll()" id="toggleButton" class="toggle-button">Show All</button>
+</div>
+
+### Graduate Student Instructor, University of Michigan
 
 <a href="javascript:void(0);" onclick="toggleContent('econ101')" style="font-weight:bold; color:#007bff; text-decoration:none;">
 ECON 101: Principles of Economics (Head GSI, 2021–2023 Fall)
@@ -48,7 +69,7 @@ function toggleAll() {
   items.forEach(div => {
     div.style.display = allShown ? "none" : "block";
   });
-  document.querySelector("button").innerText = allShown ? "Show All" : "Hide All";
+  document.getElementById("toggleButton").innerText = allShown ? "Show All" : "Hide All";
   allShown = !allShown;
 }
 </script>
