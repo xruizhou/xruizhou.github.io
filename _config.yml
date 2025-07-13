@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xinrui Zhou"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Xinrui Zhou"
 description              : &description "Ph.D. Candidate in Economics at the University of Michigan"
@@ -26,8 +26,8 @@ author:
   name             : "Xinrui Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics"
-  location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
+  location         : "Ann Arbor, MI"
   uri              : # URL
   email            : "xinruiz@umich.edu" 
 
