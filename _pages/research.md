@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: false
 sidebar:
   nav: false
+classes: wide
 ---
 
 ## Working Papers
