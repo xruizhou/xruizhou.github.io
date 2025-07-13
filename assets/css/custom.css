@@ -7,3 +7,19 @@
 .page {
   margin-left: 0 !important;
 }
+
+/* Make profile image rectangular */
+.author__avatar {
+  border-radius: 0 !important;  /* Remove the circular shape */
+  overflow: visible;
+  margin-bottom: 1rem;
+}
+
+/* Control the size and style of the image */
+.author__avatar img {
+  width: 150px;
+  height: auto;
+  border-radius: 0 !important;
+  display: block;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Add default shadow */
+}
