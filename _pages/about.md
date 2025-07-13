@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xinrui Zhou"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Welcome to my personal website! I am a Ph.D. candidate in Economics at the University of Michigan, specializing in Macroeconomics, Household Finance, and International Economics.
+Welcome to my  website! I am a Ph.D. candidate in Economics at the University of Michigan, specializing in Macroeconomics, Household Finance, and International Economics.
 
 My research focuses on understanding inflation dynamics, global supply chain disruptions, and population aging, as well as their macroeconomic implications. I am dedicated to uncovering how inflation shapes broader socio-economic outcomes and its consequences for monetary policy and macroeconomic stability.
 
