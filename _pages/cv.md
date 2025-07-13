@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: false
 ---
 
-Here is my latest [CV](../files/cv_zhou.pdf).
+Please see my latest [CV](../files/cv_zhou.pdf).
