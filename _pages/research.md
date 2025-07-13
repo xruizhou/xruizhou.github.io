@@ -1,8 +1,11 @@
 ---
-layout: archive
+layout: single
 title: "Research"
 permalink: /research/
 author_profile: false
+sidebar:
+  nav: "main"
+  disable: true
 ---
 
 ## Working Papers
