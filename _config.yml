@@ -10,6 +10,8 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Xinrui Zhou"
+header:
+  nav: "right"
 title_separator          : "-"
 name                     : &name "Xinrui Zhou"
 description              : &description "Ph.D. Candidate in Economics at the University of Michigan"
