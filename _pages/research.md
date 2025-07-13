@@ -8,11 +8,11 @@ author_profile: true
 ## Working Papers
 
 **Supply Chain Disruptions and Inflation Dynamics** with Yang Jiao, Ting Lan, and Yang Liu  
-Rackham Graduate Student Research Grant
-U-M Economics Graduate Research Award 
+- Rackham Graduate Student Research Grant
+- U-M Economics Graduate Research Award 
 
-**Political Accountability in Inflationary Times: Evidence from U.S. Elections**  
-ISR F. Thomas Juster Economic Behavior Research Award
+**Inflation and Voting Behavior: Evidence from U.S. Elections**  
+- ISR F. Thomas Juster Economic Behavior Research Award
 
 **From Capital to Concrete: Population Aging and Asset Composition**  
 Analyzes how demographic shifts influence asset allocation and housing market dynamics in a two-sector OLG model.  
