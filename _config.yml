@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "Xinrui Zhou"
 title_separator          : "-"
 name                     : &name "Xinrui Zhou"
 description              : &description "Ph.D. Candidate in Economics at the University of Michigan"
