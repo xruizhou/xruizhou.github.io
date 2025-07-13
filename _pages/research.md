@@ -10,7 +10,7 @@ classes: wide
 
 ## Working Papers
 
-**Supply Chain Disruptions and Inflation Dynamics** with Yang Jiao, Ting Lan, and Yang Liu  
+**From Ports to Prices: The Inflationary Effects of Global Supply Chain Disruptions** with Yang Jiao, Ting Lan, and Yang Liu  
 - Rackham Graduate Student Research Grant
 - U-M Economics Graduate Research Award 
 
