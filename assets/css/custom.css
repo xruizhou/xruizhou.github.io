@@ -1,11 +1,16 @@
-.page__content {
+/* Force research page content to full width */
+.page.layout--single .page__inner-wrap {
   max-width: 100% !important;
   width: 100% !important;
-  padding: 0 2em;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
+/* Optional: remove white space on very large screens */
 .page {
-  margin-left: 0 !important;
+  padding: 0 !important;
 }
 
 /* Make profile image rectangular */
