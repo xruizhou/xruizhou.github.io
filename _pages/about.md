@@ -14,4 +14,4 @@ My research focuses on understanding inflation dynamics, global supply chain dis
 
 I am affiliated with the <a href="https://data.sca.isr.umich.edu/" target="_blank">Surveys of Consumers</a>, and during the summer of 2025, I am interning at the <a href="https://www.imf.org/" target="_blank">International Monetary Fund</a>.
 
-Please contact me at xinruiz [at] umich [dot] edu.
+Please contact me at xinruiz [at] umich.edu.
