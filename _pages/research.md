@@ -4,8 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: false
 sidebar:
-  nav: "main"
-  disable: true
+  nav: false
 ---
 
 ## Working Papers
