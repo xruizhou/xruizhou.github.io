@@ -30,11 +30,10 @@ classes: wide-page
 
 ### Policy Work/Pre-Doctoral Publications
 
-Online Sentiments and Herding Behavior: A Test of Chinese Retail Investors (in Chinese) with Zhengyan Xiao and Shijun Zhou  
-*Research on Financial and Economic Issues 财经问题研究* (2019)  
+Xiao, Zhengyan, Xinrui Zhou, and Shijun Zhou. “Online Sentiments and Herding Behavior: A Test of Chinese Retail Investors”(in Chinese). *Research on Financial and Economic Issues财经问题研究*, 2019.
 
-The Policy Effects of Capital Flow Management Measures in China: A Perspective from International Media Sentiment (in Chinese) with Kan Chen and Zhengyan Xiao  
-*Studies of International Finance 国际金融研究* (2025)  
+Chen, Kan, Zhengyan Xiao, and Xinrui Zhou. “The Policy Effects of Capital Flow Management in China: A Perspective from International Media Sentiment”(in Chinese). *Studies of International Finance国际金融研究*, 2025.
+
 
 <!--
 ## Policy Publications at the IMF
