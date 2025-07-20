@@ -24,7 +24,7 @@ classes: wide-page
 
 ## Work in Progress
 
-**Global Value Chain Reconfiguration and the Tariff Shock** IMF [Analysis ongoing]
+**Global Value Chain Reconfiguration amid Tariff Tensions** IMF [Analysis ongoing]
 
 ---
 
