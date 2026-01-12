@@ -26,3 +26,13 @@
   display: block;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add default shadow */
 }
+
+/* Set default link color site-wide */
+a {
+  color: #004C97;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
