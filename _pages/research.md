@@ -2,10 +2,7 @@
 layout: single
 title: "Research"
 permalink: /research/
-author_profile: false
-sidebar:
-  nav: false
-classes: wide-page
+author_profile: ture
 --- 
 
 ## Working Papers
