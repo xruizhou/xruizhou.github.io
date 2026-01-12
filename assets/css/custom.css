@@ -20,7 +20,7 @@
 
 /* Control the size and style of the image */
 .author__avatar img {
-  width: 150px;
+  width: 200px;
   height: auto;
   border-radius: 0 !important;
   display: block;
