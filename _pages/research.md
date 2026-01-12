@@ -27,6 +27,10 @@ author_profile: ture
 
 ### Policy Work/Pre-Doctoral Publications
 
+*IMF Regional Economic Outlook: Asia and Pacific, October 2025*.  
+[Chapter 2: Reshaping Value Chains: The Case for Deeper Asia-Pacific Trade Integration](https://www.imf.org/-/media/files/publications/reo/apd/2025/october/english/ch2.pdf).  
+[Full REO Report](https://www.imf.org/en/publications/reo/apac/issues/2025/10/24/regional-economic-outlook-for-asia-and-pacific-october-2025)
+
 Xiao, Zhengyan, Xinrui Zhou, and Shijun Zhou. “Online Sentiments and Herding Behavior: A Test of Chinese Retail Investors”(in Chinese). *Research on Financial and Economic Issues财经问题研究*, 2019.
 
 Chen, Kan, Zhengyan Xiao, and Xinrui Zhou. “The Policy Effects of Capital Flow Management in China: A Perspective from International Media Sentiment”(in Chinese). *Studies of International Finance国际金融研究*, 2025.
