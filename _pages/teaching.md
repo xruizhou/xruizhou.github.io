@@ -2,10 +2,7 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
-author_profile: false
-sidebar:
-  nav: false
-classes: wide
+author_profile: true
 ---
 
 <style>
