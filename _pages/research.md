@@ -7,9 +7,14 @@ author_profile: ture
 
 ## Working Papers
 
-**From Ports to Prices: The Inflationary Effects of Global Supply Chain Disruptions** with Yang Jiao, Ting Lan, and Yang Liu  
+**From Ports to Prices: The Inflationary Effects of Global Supply Chain Disruptions** with <a href="https://sites.google.com/site/yangjiao0606/" style="color: inherit; text-decoration: none;">Yang Jiao</a>, 
+<a href="https://sites.google.com/site/tinglanum/home" style="color: inherit; text-decoration: none;">Ting Lan</a>, 
+and Yang Liu  
 
-**Shipping Delays and Domestic Inflation: Uncovering the Transmission Channels** with Yang Jiao, Ting Lan, and Yang Liu  
+**Shipping Delays and Domestic Inflation: Uncovering the Transmission Channels** with <a href="https://sites.google.com/site/yangjiao0606/" style="color: inherit; text-decoration: none;">Yang Jiao</a>, 
+<a href="https://sites.google.com/site/tinglanum/home" style="color: inherit; text-decoration: none;">Ting Lan</a>, 
+and Yang Liu   
+
 - Rackham Graduate Student Research Grant
 - U-M Economics Graduate Research Award
   
