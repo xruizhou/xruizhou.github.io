@@ -39,7 +39,7 @@ Upper-level undergraduate course on the economic analysis of financial markets a
 </div>
 
 <a href="javascript:void(0);" onclick="toggleContent('econ101')" style="font-weight:bold; color: #4c5358;; text-decoration:none;">
-ECON 101: Principles of Economics (Head GSI, 2021–2023 Fall)
+ECON 101: Principles of Economics (with Dr. Mitchell Dudley, 2021–2023 Fall)
 </a>  
 <div id="econ101" class="course-desc" style="display:none; margin: 0.5em 0 1em 1em;">
 Introductory economics course covering microeconomic fundamentals (how markets function, where markets fail, the distribution of income and wealth, the public sector, international trade). Responsibilities included running discussion sections, designing problem sets and exams, and bridging communication between students and instructors.
