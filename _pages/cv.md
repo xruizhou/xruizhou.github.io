@@ -12,4 +12,9 @@ Please see my latest [CV](/files/CV_Xinrui Zhou.pdf).
 
 ---
 
-<iframe src="/files/CV_Xinrui Zhou.pdf" width="100%" height="900px"></iframe>
+<iframe
+  src="/files/cv_zhou.pdf#navpanes=0&view=FitH"
+  width="100%"
+  height="900px"
+  style="border: none;"
+></iframe>
