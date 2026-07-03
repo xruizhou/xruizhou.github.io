@@ -5,11 +5,14 @@ permalink: /research/
 author_profile: ture
 --- 
 
-## Working Papers
+## Publications
 
-**From Ports to Prices: The Inflationary Effects of Global Supply Chain Disruptions** with <a href="https://sites.google.com/site/yangjiao0606/" style="color: inherit;">Yang Jiao</a>, 
+**[From Ports to Prices: The Inflationary Effects of Global Supply Chain Disruptions](https://www.aeaweb.org/articles?id=10.1257/pandp.20261119)** with <a href="https://sites.google.com/site/yangjiao0606/" style="color: inherit;">Yang Jiao</a>, 
 <a href="https://sites.google.com/site/tinglanum/home" style="color: inherit;">Ting Lan</a>, 
-and Yang Liu  
+and Yang Liu    
+*AEA Papers and Proceedings*, Vol. 116, May 2026.
+
+## Working Papers
 
 **Shipping Delays and Domestic Inflation: Uncovering the Transmission Channels** with <a href="https://sites.google.com/site/yangjiao0606/" style="color: inherit;">Yang Jiao</a>, 
 <a href="https://sites.google.com/site/tinglanum/home" style="color: inherit;">Ting Lan</a>, 
@@ -21,14 +24,14 @@ and Yang Liu
 **Inflation and Voting Behavior: Evidence from U.S. Elections**  
 - ISR F. Thomas Juster Economic Behavior Research Award
 
-**Housing over Capital: Population Aging and Asset Composition** [Full Paper](/files/aging_asset_comp.pdf)  
+**Housing over Capital: Population Aging and Asset Composition**  
 *Abstract:* This paper provides evidence that population aging systematically shifts asset composition, with implications for lower growth and real interest rates. Using an instrumental variable strategy based on cross-country variation in the predetermined component of population aging, I document that aging raises the share of residential housing assets while reducing the share of productive capital in national wealth. These empirical patterns align with an overlapping generations model with a housing market, in which aging reallocates household savings away from productive investment toward housing, amplifying secular stagnation dynamics.
 
 ---
 
 ## Work in Progress
 
-**Global Value Chain Reconfiguration amid Tariff Tensions** IMF
+**Global Value Chain Reconfiguration amid Tariff Tensions** with Chikako Baba, Ashique Habib, Weining Xin
 
 ---
 
