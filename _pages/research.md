@@ -7,7 +7,7 @@ author_profile: ture
 
 ## Publications
 
-**[From Ports to Prices: The Inflationary Effects of Global Supply Chain Disruptions](https://www.aeaweb.org/articles?id=10.1257/pandp.20261119)** with <a href="https://sites.google.com/site/yangjiao0606/" style="color: inherit;">Yang Jiao</a>, 
+**<a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20261119" style="color:inherit;">From Ports to Prices: The Inflationary Effects of Global Supply Chain Disruptions</a>** with <a href="https://sites.google.com/site/yangjiao0606/" style="color: inherit;">Yang Jiao</a>, 
 <a href="https://sites.google.com/site/tinglanum/home" style="color: inherit;">Ting Lan</a>, 
 and Yang Liu    
 *AEA Papers and Proceedings*, Vol. 116, May 2026.
