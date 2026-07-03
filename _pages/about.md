@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to my website! I am an Economist at the International Monetary Fund Shanghai Regional Center. I received my Ph.D. in Economics from the University of Michigan.
+Welcome to my website! I am an Economist at the <a href="[https://www.imf.org/](https://www.imf.org/en/about/center/shanghai-center)" target="_blank">International Monetary Fund Shanghai Center</a>. I received my Ph.D. in Economics from the University of Michigan.
 
 My research interests include monetary policy, household finance, and international trade. I study inflation dynamics, global supply chain disruptions, population aging, and household consumption.
 
