@@ -9,10 +9,8 @@ redirect_from:
 ---
 
 
-Welcome to my  website! I am a Ph.D. candidate in Economics at the University of Michigan, specializing in Macroeconomics, Household Finance, and International Economics.
+Welcome to my website! I am an Economist at the International Monetary Fund Shanghai Regional Center. I received my Ph.D. in Economics from the University of Michigan.
 
-My research focuses on understanding inflation dynamics, global supply chain disruptions, and population aging, as well as their macroeconomic implications. I am dedicated to uncovering how inflation shapes broader socio-economic outcomes and informs monetary policy and macroeconomic stability.
+My research interests include monetary policy, household finance, and international trade. I study inflation dynamics, global supply chain disruptions, population aging, and household consumption.
 
-I work at the <a href="https://data.sca.isr.umich.edu/" target="_blank">Surveys of Consumers</a>, and during the summer of 2025, I interned at the <a href="https://www.imf.org/" target="_blank">International Monetary Fund</a>.
-
-Please contact me at xinruiz [at] umich.edu.
+Please feel free to contact me at xinruiz [at] umich.edu.
